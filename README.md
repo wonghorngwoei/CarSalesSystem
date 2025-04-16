@@ -97,13 +97,13 @@ The Car Sales System is built using the **MVC (Model-View-Controller)** pattern 
    ```bash
    git clone https://github.com/wonghorngwoei/CarSalesSystem
 
-2. Import the project into an IDE (like IntelliJ or Eclipse) with Java EE support
+2. Import the project into an IDE with Java EE support
 
-3. Setup MySQL database with the provided SQL script
+3. Setup MySQL database
 
 4. Configure web.xml and database connection files
 
-5. Deploy to Apache Tomcat
+5. Deploy
 
 6. Access the app at: http://localhost:8080/car-sales-system
 
