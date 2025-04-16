@@ -1,0 +1,84 @@
+/* Change font family of h1 element */
+h1, h2, h3, h4{
+    font-family: 'Playfair Display', serif;
+}
+
+/* Change font family of p element */
+p, a, td, tr, button, btn btn-primary {
+    font-family: "Lato", sans-serif;
+}
+
+.navbar-nav .nav-link:hover {
+    font-weight: bold;
+}
+
+.custom-class {
+    max-width: 1700px; /* Change this value to your desired width */
+    margin: 0 auto; /* Centers the div horizontally */
+}
+
+/* Add custom font family */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+/* Style for nav items */
+#myNavbar .navbar-nav li.nav-item a.nav-link {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #555;
+    text-transform: uppercase;
+    padding: 15px;
+    transition: all 0.3s ease;
+}
+
+.hero-image {
+    background-image: url("images/R34.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* About us section */
+.about-us {
+    background-color: #ffffff;
+    padding: 50px;
+}
+
+.about-us-box {
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Contact us section */
+.contact-us {
+    background-color: #ffffff;
+    padding: 50px;
+}
+
+.contact-us-box {
+    border: 1px solid #cccccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#contact h2,
+#contact label,
+#contact input,
+#contact textarea {
+    color: white;
+}
