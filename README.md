@@ -107,6 +107,11 @@ The Car Sales System is built using the **MVC (Model-View-Controller)** pattern 
 
 6. Access the app at: http://localhost:8080/car-sales-system
 
+## 📸 Screenshots
+
+### 🖥️ Dashboard (Managing Staff)
+![Dashboard Screenshot](screenshots/CarSalesSys.png)
+
 ## 🧠 Learning Outcomes
 - Gained experience in enterprise-level application design
 
