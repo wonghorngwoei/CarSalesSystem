@@ -42,7 +42,7 @@ The Car Sales System is built using the **MVC (Model-View-Controller)** pattern 
 - **View**: JSP files styled with Bootstrap
 - **Controller**: Java Servlets handling request-response logic
 
-![MVC Architecture](https://via.placeholder.com/600x200?text=MVC+Diagram)
+![MVC Architecture](screenshots/MVCArchitecture.png)
 
 ---
 
