@@ -109,8 +109,20 @@ The Car Sales System is built using the **MVC (Model-View-Controller)** pattern 
 
 ## 📸 Screenshots
 
-### 🖥️ Dashboard (Managing Staff)
-![Dashboard Screenshot](screenshots/CarSalesSys.png)
+### 🖥️ HomePage
+![HomePage Screenshot](screenshots/CarSalesSys.png)
+
+### 🖥️ Report & Analysis Section
+![Report Screenshot](screenshots/Report.png)
+
+### 🖥️ Transaction Report
+![Transaction Screenshot](screenshots/TransactionRep.png)
+
+### 🖥️ Car Sales Table
+![Car Sales Table Screenshot](screenshots/CarSalesTable.png)
+
+### 🖥️ Purchase History
+![Purchase History Screenshot](screenshots/PurchaseHist.png)
 
 ## 🧠 Learning Outcomes
 - Gained experience in enterprise-level application design
